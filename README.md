@@ -1,5 +1,5 @@
-# Data set of plant sexual systems 
-## Article title: Region effects and local climate jointly shape the global distribution of sexual systems in woody flowering plants
+# Data set of global distribution of sexual systems in woody flowering plants 
+## Article title: Regional effects and local climate jointly shape the global distribution of sexual systems in woody flowering plants
 ## Authors: Minhua Zhang, Xiaoqing Hu, Fangliang He 
 ## E-mail: mhzhang@des.ecnu.edu.cn
 
